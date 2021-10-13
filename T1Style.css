@@ -1,0 +1,83 @@
+.wrapper {
+    width: 90%;
+    height: 600px;
+    margin: 0 auto;
+    background-color: lightgreen;
+    border: limegreen 1px;
+    
+
+}
+
+.TabBox { 
+    width: 70%;
+    margin: 0 auto;
+    background-color: white;
+    border: gray 2px solid;
+    border-radius: 15px;
+}
+
+h1 {
+    margin-left: 20px;
+
+}
+
+p {
+    margin-left: 20px;
+
+}
+
+input {
+    margin-left: 20px;
+}
+.Adding {
+    background-color:royalblue;
+    color: white;
+    border-radius:30px;
+    border-color: navy;
+
+
+}
+
+ul {
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-right: 20px;
+}
+
+.done {
+    background-color: lightgray;
+    color: gray;
+
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+.clearing {
+    background-color: royalblue;
+    border: navy 100%;
+    color: white;
+    border-radius: 30px;
+    font-size: small;
+}
+
+.emptying {
+    background-color: crimson;
+    border: brown 100%;
+    color: white;
+    border-radius: 30px;
+    font-size: small;
+
+}
+
+.saving {
+    background-color: lightgreen;
+    border: green 100%;
+    color: white;
+    border-radius: 30px;
+    font-size: small;
+}
+
