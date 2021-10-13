@@ -32,10 +32,10 @@ input {
     margin-left: 20px;
 }
 .Adding {
-    background-color:royalblue;
+    background-color:rgb(127, 149, 218);
     color: white;
     border-radius:30px;
-    border-color: navy;
+    border-color: royalblue;
 
 
 }
@@ -59,8 +59,8 @@ button:hover {
 }
 
 .clearing {
-    background-color: royalblue;
-    border: navy 100%;
+    background-color: rgb(127, 149, 218);
+    border: royalblue 100%;
     color: white;
     border-radius: 30px;
     font-size: small;
