@@ -3,7 +3,7 @@
     height: 500px;
     margin: 0 auto;
     background-color: lightgreen;
-    border: limegreen 1px;
+    border: rgb(79, 167, 79) 1px solid;
     display: flex;
     flex-direction: column;
     justify-content: center;    
