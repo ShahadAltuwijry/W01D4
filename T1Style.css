@@ -1,15 +1,17 @@
 .wrapper {
-    width: 90%;
-    height: 600px;
+    width: 85%;
+    height: 500px;
     margin: 0 auto;
     background-color: lightgreen;
     border: limegreen 1px;
-    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;    
 
 }
 
 .TabBox { 
-    width: 70%;
+    width: 85%;
     margin: 0 auto;
     background-color: white;
     border: gray 2px solid;
